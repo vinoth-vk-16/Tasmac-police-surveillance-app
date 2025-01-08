@@ -1,6 +1,1 @@
-![IMG-20250108-WA0008 1](https://github.com/user-attachments/assets/c2c45e10-82cb-4c7a-85cd-0e74014abffe)
-![IMG-20250108-WA0011 1](https://github.com/user-attachments/assets/3ed8590f-ca99-4848-8192-f32b657ae3f3)
-![IMG-20250108-WA0013 1](https://github.com/user-attachments/assets/0c68b2fb-2518-4f6b-ad69-c2a9487466ba)
-![WhatsApp Image 2025-01-08 at 21 43 03_8f9e5c56](https://github.com/user-attachments/assets/82c21468-80cb-4122-a51e-3e6e0563df6c)
-![IMG-20250108-WA0012 1](https://github.com/user-attachments/assets/d17eacbc-01ea-4b0c-bda5-7e25e9aff1ce)
-![IMG-20250108-WA0009 1](https://github.com/user-attachments/assets/ffb5aca9-d352-4f26-b282-e2468c6b98bb)
+
