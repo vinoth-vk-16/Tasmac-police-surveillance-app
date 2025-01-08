@@ -4,6 +4,8 @@
 The **Police TASMAC Locator App** is designed for law enforcement officers to efficiently monitor TASMAC (Tamil Nadu State Marketing Corporation) locations. This app allows officers to track visits, mark locations as visited, and log additional notes for surveillance purposes. 
 
 ---
+![photo-collage png](https://github.com/user-attachments/assets/d2f625ca-f477-4291-a59f-0f6dba488cea)
+
 
 ## Features
 
@@ -28,6 +30,7 @@ The **Police TASMAC Locator App** is designed for law enforcement officers to ef
 - **Admin Features** (Admin App):
   - Add new TASMAC locations directly from the app.
   - Add and manage user accounts for officers.
+![photo-collage png (1)](https://github.com/user-attachments/assets/8d7adfaa-af8d-44fc-acfc-9831a6b3e93a)
 
 ---
 
